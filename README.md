@@ -1,2 +1,3 @@
 # Portfolio-Website
-This Portfolio Website is designed only using HTML and CSS.
+This is my Portfolio Website which is designed using HTML and CSS.
+This Portfolio Websites highlight my skills.
